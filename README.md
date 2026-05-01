@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"> 2nd Year IT Undergrad @ JIIT Noida <br>Experienced with C++, DSA, Python, Web Dev<br></p>
+<p align="left"> 2nd Year IT Undergrad @ JIIT Noida <br>Experienced with C/C++,Java, DSA, Python<br></p>
 
 ###
 
