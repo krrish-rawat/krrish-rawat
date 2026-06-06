@@ -1,42 +1,56 @@
-<h1 align="center">Hey there, I'm Krrish Rawat 👋</h1>
+<h1 align="center">I'm Krrish Rawat </h1>
 
-###
+## 🎯 About Me
 
-<h3 align="left">👩‍💻 About Me</h3>
+**2nd Year IT Student @ JIIT Noida | Interning @ [NHAI](https://nhai.gov.in/)**
 
-###
+C++ & competitive programming → Open source exploration → **AI + Automation**. Learned that sometimes the smartest solution isn't code—it's knowing when not to write it.
 
-<p align="left"> 2nd Year IT Undergrad @ JIIT Noida <br>Experienced with C/C++,Java, DSA, Python<br></p>
 
-###
 
-<h3 align="left">🛠 Languages</h3>
+## 💻 Tech Stack
 
-###
-
+### 🔤 Core Languages & Logic
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,php,html,css" />
 </div>
 
-###
+### ⚙️ Backend & Database
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,django,mysql,postgres" alt="Backend and DBs" />
+  &nbsp;
+  <img src="https://buildwithlayer.gallerycdn.vsassets.io/extensions/buildwithlayer/sqlalchemy-integration-expert-jyszg/0.0.13/1740523961608/Microsoft.VisualStudio.Services.Icons.Default" alt="SQLAlchemy Logo" height="48" />
+</div>
 
-<h3 align="left">🌐 Connect with Me</h3>
+### 🔄 Workflow Automation -using n8n
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/krrish-rawat-883b65328/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/n8n-color.png" height="50" alt="n8n" />
+</div>
+
+- **n8n** - Build automated workflows without code
+- Connect APIs, databases, services seamlessly
+- Currently using this for project automation 
+
+## 📊 Github Analytics & Insights
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krrish-rawat&theme=github_dark" width="100%" alt="GitHub Profile Summary" />
+  
+  <br><br>
+</div>
+
+## 🔹 Connect with Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/krrishrawat/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="krrishrawat227@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://codolio.com/profile/DuckyGod" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codolio&label=&color=blueviolet&style=for-the-badge" height="25" alt="codolio logo" />
+    <img src="https://img.shields.io/badge/Codolio-Blueviolet?style=for-the-badge&logoColor=white" alt="Codolio" />
   </a>
+  
 </div>
