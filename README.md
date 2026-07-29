@@ -19,7 +19,6 @@ C++ & competitive programming → Open source exploration → **AI + Automation*
 <div align="left">
   <img src="https://skillicons.dev/icons?i=fastapi,django,mysql,postgres" alt="Backend and DBs" />
   &nbsp;
-  <img src="https://buildwithlayer.gallerycdn.vsassets.io/extensions/buildwithlayer/sqlalchemy-integration-expert-jyszg/0.0.13/1740523961608/Microsoft.VisualStudio.Services.Icons.Default" alt="SQLAlchemy Logo" height="48" />
 </div>
 
 ### 🔄 Workflow Automation -using n8n
